@@ -6,25 +6,25 @@ Aqui você encontrará exemplos práticos de relatórios interativos, dashboards
 1. **Dashboard Help Desk**
 **Visão Geral:** Este dashboards permite analisar rapidamente os **principais KPIs** de atendimento, categorização de chamados, localização de clientes e o tipo de suporte prestado, oferecendo uma visão clara sobre a operação de atendimento no período.
 **Aba "Overall"**:
-- **Chamados Abertos x Fechados por Mês**: Exibe a quantidade total de chamados abertos e fechados no mês de janeiro de 2022, com 187 abertos e 162 fechados.
-- **Chamados Abertos x Fechados por Dia**: Mostra a evolução diária dos chamados abertos e fechados ao longo do mês de janeiro de 2022.
-- **Chamados Abertos por Cliente - Top 10**: Apresenta os 10 principais clientes que mais abriram chamados, com destaque para o Cliente U com 28 chamados e Cliente P com 26.
-- **Chamados Abertos por Categoria**: Classificação dos chamados por tipo de problema, onde "Computador" aparece como a categoria mais frequente com 38 chamados, seguida por "Software" (23) e "E-mail" (18).
-- **Total de Chamados Atendidos**: Exibe o número total de chamados atendidos no período, que foi de 162.
-- **Atendimento Externo vs Interno**: Mostra a divisão percentual dos atendimentos realizados de forma interna (65%) e externa (35%).
+- Chamados Abertos x Fechados por Mês: Exibe a quantidade total de chamados abertos e fechados no mês.
+- Chamados Abertos x Fechados por Dia: Mostra a evolução diária dos chamados abertos e fechados.
+- Chamados Abertos por Cliente - Top 10: Apresenta os 10 principais clientes que mais abriram chamados.
+- Chamados Abertos por Categoria: Classificação dos chamados por tipo de problema.
+- Total de Chamados Atendidos: Exibe o número total de chamados atendidos no período selecionado.
+- Atendimento Externo vs Interno: Mostra a divisão percentual dos atendimentos realizados de forma interna e externa.
 
 **Aba "Clientes"**:
-- **Clientes por Localidade e Status**: Distribuição de clientes ativos e encerrados por estado (SP, SC, RJ), com maior concentração em SP.
-- **Clientes por Tipo de Visita**: Exibe a quantidade de visitas corretivas e preventivas realizadas por cliente, onde Cliente U e Cliente P lideram o ranking.
-- **Atendimento Externo por Cliente**: Mostra o número de atendimentos externos realizados por cliente.
-- **Clientes por Contrato**: Um gráfico de pizza mostrando a quantidade de clientes por tipo de contrato (Avulso, Contrato, Contrato Automação), com predominância de "Contrato" (56%).
+- Clientes por Localidade e Status: Distribuição de clientes ativos e encerrados por estado.
+- Clientes por Tipo de Visita: Exibe a quantidade de visitas corretivas e preventivas realizadas por cliente.
+- Atendimento Externo por Cliente: Mostra o número de atendimentos externos realizados por cliente.
+- Clientes por Contrato: Um gráfico de pizza mostrando a quantidade de clientes por tipo de contrato.
 
 **Aba "Tickets"**:
-- **Chamados Abertos por Dia da Semana**: Apresenta a distribuição de chamados abertos em cada dia da semana, com segunda-feira sendo o dia com mais chamados (57).
-- **Top 10 Categoria**: Mostra as 10 principais categorias de chamados abertos, com "Computador" representando 29,23% dos chamados, seguido por "Software" e "E-mail".
-- **Chamados por Tipo de Contrato**: Exibe a quantidade de chamados abertos por tipo de contrato (Pessoas Físicas e Jurídicas), sendo que a maior parte vem de contratos com empresas.
-- **Chamados por Localidade**: Distribui os chamados por estado (RJ, SP e SC), mostrando também a distinção entre atendimentos internos e externos.
-- **Top 10 Subcategoria**: Detalha as subcategorias dos chamados abertos, com maior incidência em "Verificar", "Configuração", e "Ativação".
+- Chamados Abertos por Dia da Semana: Apresenta a distribuição de chamados abertos em cada dia da semana.
+- Top 10 Categoria: Mostra as 10 principais categorias de chamados abertos.
+- Chamados por Tipo de Contrato: Exibe a quantidade de chamados abertos por tipo de contrato (Pessoas Físicas e Jurídicas).
+- Chamados por Localidade: Distribui os chamados por estado, mostrando também a distinção entre atendimentos internos e externos.
+- Top 10 Subcategoria: Detalha as subcategorias dos chamados abertos.
 
 
 2. **Painel de RH**
@@ -33,8 +33,8 @@ Aqui você encontrará exemplos práticos de relatórios interativos, dashboards
 - Total de Funcionários: Exibe o número total de funcionários.
 - Distribuição de Gênero: Mostra a quantidade e porcentagem de funcionários femininos e masculinos.
 - Tempo de Experiência: Exibe um tempo médio de experiência dos funcionários.
-- Funcionários por Função: Gráfico de barras que dividem os funcionários por função (Cientista de Dados, Analista de Dados, Engenheiro de IA, etc.).
-- Envolvimento no Trabalho: Representa o nível de engajamento dos funcionários (Médio, Baixo, Alto, Ruim) por meio de um gráfico de rosca.
+- Funcionários por Função: Gráfico de barras que dividem os funcionários por função.
+- Envolvimento no Trabalho: Representa o nível de engajamento dos funcionários por meio de um gráfico de rosca.
 - Disponível para Hora Extra: Exibe uma divisão em porcentagem de funcionários que estão ou não disponíveis para horas extras.
 
   
