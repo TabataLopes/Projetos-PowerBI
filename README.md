@@ -3,15 +3,28 @@ Aqui você encontrará exemplos práticos de relatórios interativos, dashboards
 
 📊 Projetos
 
-1. **Dashboard Financeiro**
-**Visão Geral**: Esse dashboard foca no acompanhamento das receitas, despesas e margem de lucro, ajudando a identificar tendências financeiras, comparando receitas e despesas por mês, além de detalhar as receitas e despesas por componente.
-**Indicadores Chave:**
-- Receitas e Despesas: Exibe os valores de receita e despesa acumulada no período.
-- Margem de Lucro: Mostra a margem de lucro em percentual.
-- Receitas e Despesas por Período: Apresenta a evolução mensal com gráficos de barras que mostram os valores de receita e despesa mês a mês.
-- Receitas por Componente: Detalha os componentes que compõem as receitas (Vendas, Licenciamento, Aluguéis, Publicidade, etc.).
-- Despesas por Componente: distribuição das despesas por categorias como Administrativo, Salários, Tecnologia, e outros.
-- Tabela Resumida: Mostra um resumo das despesas e receitas por categoria, permitindo uma visão rápida dos valores
+1. **Dashboard Help Desk**
+**Visão Geral:** Este dashboards permite analisar rapidamente os **principais KPIs** de atendimento, categorização de chamados, localização de clientes e o tipo de suporte prestado, oferecendo uma visão clara sobre a operação de atendimento no período.
+**Aba "Overall"**:
+- **Chamados Abertos x Fechados por Mês**: Exibe a quantidade total de chamados abertos e fechados no mês de janeiro de 2022, com 187 abertos e 162 fechados.
+- **Chamados Abertos x Fechados por Dia**: Mostra a evolução diária dos chamados abertos e fechados ao longo do mês de janeiro de 2022.
+- **Chamados Abertos por Cliente - Top 10**: Apresenta os 10 principais clientes que mais abriram chamados, com destaque para o Cliente U com 28 chamados e Cliente P com 26.
+- **Chamados Abertos por Categoria**: Classificação dos chamados por tipo de problema, onde "Computador" aparece como a categoria mais frequente com 38 chamados, seguida por "Software" (23) e "E-mail" (18).
+- **Total de Chamados Atendidos**: Exibe o número total de chamados atendidos no período, que foi de 162.
+- **Atendimento Externo vs Interno**: Mostra a divisão percentual dos atendimentos realizados de forma interna (65%) e externa (35%).
+
+**Aba "Clientes"**:
+- **Clientes por Localidade e Status**: Distribuição de clientes ativos e encerrados por estado (SP, SC, RJ), com maior concentração em SP.
+- **Clientes por Tipo de Visita**: Exibe a quantidade de visitas corretivas e preventivas realizadas por cliente, onde Cliente U e Cliente P lideram o ranking.
+- **Atendimento Externo por Cliente**: Mostra o número de atendimentos externos realizados por cliente.
+- **Clientes por Contrato**: Um gráfico de pizza mostrando a quantidade de clientes por tipo de contrato (Avulso, Contrato, Contrato Automação), com predominância de "Contrato" (56%).
+
+**Aba "Tickets"**:
+- **Chamados Abertos por Dia da Semana**: Apresenta a distribuição de chamados abertos em cada dia da semana, com segunda-feira sendo o dia com mais chamados (57).
+- **Top 10 Categoria**: Mostra as 10 principais categorias de chamados abertos, com "Computador" representando 29,23% dos chamados, seguido por "Software" e "E-mail".
+- **Chamados por Tipo de Contrato**: Exibe a quantidade de chamados abertos por tipo de contrato (Pessoas Físicas e Jurídicas), sendo que a maior parte vem de contratos com empresas.
+- **Chamados por Localidade**: Distribui os chamados por estado (RJ, SP e SC), mostrando também a distinção entre atendimentos internos e externos.
+- **Top 10 Subcategoria**: Detalha as subcategorias dos chamados abertos, com maior incidência em "Verificar", "Configuração", e "Ativação".
 
 2. **Painel de RH**
 **Visão Geral:** Este painel é voltado para o RH ou gestão de pessoas, mostrando dados sobre os funcionários, como distribuição de gênero, funções, experiência, e disponibilidade para horas extras.
@@ -32,6 +45,17 @@ Aqui você encontrará exemplos práticos de relatórios interativos, dashboards
 - Entregas no Prazo por Canal: Gráfico de área que mostra o desempenho das entregas em cada canal.
 - Entregas por Status: Mostra a porcentagem de entregas antecipadas, no prazo e atrasadas.
 - Tabelas: Exibe informações fornecidas sobre pedidos por vendedor e por cidade, juntamente com um sistema de avaliação dos vendedores com base em desempenho (Rating).
+
+4. **Dashboard Financeiro**
+**Visão Geral**: Esse dashboard foca no acompanhamento das receitas, despesas e margem de lucro, ajudando a identificar tendências financeiras, comparando receitas e despesas por mês, além de detalhar as receitas e despesas por componente.
+**Indicadores Chave:**
+- Receitas e Despesas: Exibe os valores de receita e despesa acumulada no período.
+- Margem de Lucro: Mostra a margem de lucro em percentual.
+- Receitas e Despesas por Período: Apresenta a evolução mensal com gráficos de barras que mostram os valores de receita e despesa mês a mês.
+- Receitas por Componente: Detalha os componentes que compõem as receitas (Vendas, Licenciamento, Aluguéis, Publicidade, etc.).
+- Despesas por Componente: distribuição das despesas por categorias como Administrativo, Salários, Tecnologia, e outros.
+- Tabela Resumida: Mostra um resumo das despesas e receitas por categoria, permitindo uma visão rápida dos valores
+
 
 ## 🚀 Como Visualizar os Projetos
 
